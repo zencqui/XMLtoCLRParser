@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CurrencyRate.cs" />
     <Compile Include="IObjectMapper.cs" />
     <Compile Include="IXmlDataHolder.cs" />
     <Compile Include="ObjectMapper.cs" />
