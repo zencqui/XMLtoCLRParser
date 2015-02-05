@@ -1,0 +1,7 @@
+C:\Projects\XmlToPocoParser\XMLtoCLRParser\XmlToPocoParser\bin\Debug\XmlToPocoParser.exe.config
+C:\Projects\XmlToPocoParser\XMLtoCLRParser\bin\Debug\XmlToPocoParser.exe.config
+C:\Projects\XmlToPocoParser\XMLtoCLRParser\bin\Debug\XmlToPocoParser.exe
+C:\Projects\XmlToPocoParser\XMLtoCLRParser\bin\Debug\XmlToPocoParser.pdb
+C:\Projects\XmlToPocoParser\XMLtoCLRParser\obj\Debug\XmlToPocoParser.csprojResolveAssemblyReference.cache
+C:\Projects\XmlToPocoParser\XMLtoCLRParser\obj\Debug\XmlToPocoParser.exe
+C:\Projects\XmlToPocoParser\XMLtoCLRParser\obj\Debug\XmlToPocoParser.pdb
