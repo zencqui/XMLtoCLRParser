@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace XmlToPocoParser
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
-        {
-        }
+        { }
     }
 }
